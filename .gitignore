@@ -1,0 +1,9 @@
+target/
+bin/
+dados/
+exportacoes/
+.settings/
+.classpath
+.project
+.idea/
+*.iml
